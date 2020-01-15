@@ -40,5 +40,3 @@ passwords %>%
   theme_minimal() +
   theme(legend.position = "none") +
   NULL
-
-ggsave("password strength.png", dpi = "retina")
