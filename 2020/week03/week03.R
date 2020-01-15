@@ -34,7 +34,7 @@ passwords %>%
     title = "Average Password Strength by Category",
     x = "Category",
     y = "Average Strength",
-    caption = "source: Knowledge is Beautiful"
+    caption = "source: Information is Beautiful"
   ) +
   scale_fill_manual(values = c("gray90", "cornflowerblue")) +
   theme_minimal() +
